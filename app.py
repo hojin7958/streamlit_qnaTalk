@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 
-
+st.set_page_config(page_title='보상질문톡')
 
 st.header("보상질문을 검색해보세요 - 메리츠")
 
